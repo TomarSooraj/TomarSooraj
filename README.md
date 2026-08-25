@@ -55,11 +55,25 @@ and finding ways to automate work that shouldn't have to be manual.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<a href="./assets/aws-developer.png">
+  <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</a>
+
+<a href="./assets/aws-saa.png">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</a>
+
+<a href="./assets/aws-cloud-practitioner.png">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</a>
+
+<a href="./assets/gcp-ace.png">
+  <img src="https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</a>
+
+<a href="./assets/azure-fundamentals.png">
+  <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
 
 </p>
 
