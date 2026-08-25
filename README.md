@@ -56,15 +56,15 @@ and finding ways to automate work that shouldn't have to be manual.
 <p align="center">
 
 <a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AWS DVA C02.png">
-  <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=aws&logoColor=FF9900" />
 </a>
 
 <a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AWS SAA C03.png">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=aws&logoColor=FF9900" />
 </a>
 
 <a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AWS CLF C01.png">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=aws&logoColor=FF9900" />
 </a>
 
 <a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/GCP ACE.png">
