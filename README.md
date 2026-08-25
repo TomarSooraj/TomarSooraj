@@ -2,7 +2,7 @@
 <!-- ============ BANNER ============ -->
 
 <p align="center">
-  <img src="./GIF.gif" width="60%">
+  <img src="./assets/GIF.gif" width="60%">
 <!--   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=70&duration=3500&pause=60000&color=F5B700&center=true&vCenter=true&width=800&height=140&lines=Hi%2C+I'm+Sooraj+%F0%9F%91%8B" alt="Hi, I'm Sooraj" /> -->
 </p>
 
@@ -55,23 +55,23 @@ and finding ways to automate work that shouldn't have to be manual.
 
 <p align="center">
 
-<a href="./assets/aws-developer.png">
+<a href="./assets/AWS DVA C02.png">
   <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </a>
 
-<a href="./assets/aws-saa.png">
+<a href="./assets/AWS SAA C03.png">
   <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </a>
 
-<a href="./assets/aws-cloud-practitioner.png">
+<a href="./assets/AWS CLF C01.png">
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </a>
 
-<a href="./assets/gcp-ace.png">
+<a href="./assets/GCP ACE.png">
   <img src="https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
-<a href="./assets/azure-fundamentals.png">
+<a href="./assets/AZ 900.png">
   <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
