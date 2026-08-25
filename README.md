@@ -55,23 +55,23 @@ and finding ways to automate work that shouldn't have to be manual.
 
 <p align="center">
 
-<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/aws-developer.png">
+<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AWS DVA C02.png">
   <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </a>
 
-<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/aws-saa.png">
+<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AWS SAA C03.png">
   <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </a>
 
-<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/aws-cloud-practitioner.png">
+<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AWS CLF C01.png">
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </a>
 
-<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/gcp-ace.png">
+<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/GCP ACE.png">
   <img src="https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
-<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/azure-fundamentals.png">
+<a href="https://raw.githubusercontent.com/TomarSooraj/TomarSooraj/main/assets/AZ 900.png">
   <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
