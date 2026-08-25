@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Software Development Engineer II · Backend · Distributed Systems · Cloud · AI</b>
+  <b>Software Development Engineer II · Backend · Distributed Systems · Cloud · AI · F1</b>
 </p>
 
 
