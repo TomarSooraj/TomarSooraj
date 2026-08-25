@@ -2,7 +2,7 @@
 <!-- ============ BANNER ============ -->
 
 <p align="center">
-  <img src="./GIF.gif" width="800">
+  <img src="./GIF.gif" width="60%">
 <!--   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=70&duration=3500&pause=60000&color=F5B700&center=true&vCenter=true&width=800&height=140&lines=Hi%2C+I'm+Sooraj+%F0%9F%91%8B" alt="Hi, I'm Sooraj" /> -->
 </p>
 
